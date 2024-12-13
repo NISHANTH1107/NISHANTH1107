@@ -17,18 +17,61 @@ I am a dedicated full-stack developer who thrives on solving real-world problems
 
 ---
 
-### Events & Workshops Attended
+### Skills
 
-- **Hackathon Winner**: InnovateX, 2023  
-- **Workshop on Machine Learning**: Conducted by TechWorld, 2022  
-- **Open Source Contributor Summit**: Organized by XYZ Community, 2022  
-- **ReactJS Bootcamp**: Hosted by DevCamp, 2022  
-- **Django Mastery Workshop**: TechFlare, 2022  
-- **Python**: PYCON2023 HYDERABAD, 2023
+#### Frontend
+- ReactJS  
+- HTML, CSS, Bootstrap  
+- JavaScript, TypeScript  
+
+#### Backend
+- Django, Flask, Express  
+- Node.js  
+
+#### Database
+- PostgreSQL, MySQL, SQLite, MongoDB  
+
+#### Tools & Platforms
+- Docker, Firebase, Git  
+- Heroku, AWS  
+
+#### Machine Learning
+- Scikit-learn, TensorFlow, PyTorch  
+
 ---
 
+### Projects
 
-- 📫 How to reach me **nishanthmn07@gmail.comm**
+- **[Portfolio Website](https://github.com/nishanth1107/portfolio)**  
+  *A responsive personal portfolio showcasing skills and projects.*  
+
+- **[E-commerce App](https://github.com/nishanth1107/ecommerce-app)**  
+  *A scalable e-commerce platform built with React and Django.*  
+
+---
+
+### Achievements
+
+- 🏆 Winner, InnovateX Hackathon, 2023  
+- 📜 Certified Python Developer, TechWorld, 2022  
+- ⭐ Open Source Contributor, XYZ Community, 2022  
+
+---
+
+### My Journey
+
+- 🌱 Started learning programming in 2018  
+- 🚀 Built my first web app using Django in 2019  
+- 💼 Interned at ABC Company in 2020  
+- 🔭 Now a full-stack developer working on real-world projects  
+
+---
+
+### Currently Learning
+
+- Advanced React Concepts  
+- AWS Cloud Computing  
+- Data Structures & Algorithms  
 
 ---
 
@@ -87,4 +130,3 @@ I am a dedicated full-stack developer who thrives on solving real-world problems
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanth1107&show_icons=true&locale=en" alt="nishanth1107" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanth1107&" alt="nishanth1107" /></p>
-
