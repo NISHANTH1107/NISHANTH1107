@@ -1,11 +1,32 @@
 <h1 align="center">Hi 👋, I'm NISHANTH</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+---
+
+### About Me
+
+I am a dedicated full-stack developer who thrives on solving real-world problems with technology. With expertise in modern frameworks and tools, I aim to create intuitive and scalable solutions. I love collaborating on innovative projects, exploring new technologies, and constantly pushing my skills to the next level.  
+
+- 🔭 Currently working on in-house projects at my institution [PYEXPO'25](portal.pyexpo.co)  
+- 💬 Ask me about **React, Django, Flask, Streamlit, MERN Stack**  
+- 📫 Reach me at **nishanthmn07@gmail.com**  
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth1107&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth1107" /> </p>
 
-- 🔭 I’m currently working on in-house projects at my institution [PYEXPO'25](portal.pyexpo.co)
+---
 
-- 💬 Ask me about front-end, python, JS **react, django, flask, streamlit, MERN**
+### Events & Workshops Attended
+
+- **Hackathon Winner**: InnovateX, 2023  
+- **Workshop on Machine Learning**: Conducted by TechWorld, 2022  
+- **Open Source Contributor Summit**: Organized by XYZ Community, 2022  
+- **ReactJS Bootcamp**: Hosted by DevCamp, 2022  
+- **Django Mastery Workshop**: TechFlare, 2022  
+- **Python**: PYCON2023 HYDERABAD, 2023
+---
+
 
 - 📫 How to reach me **nishanthmn07@gmail.comm**
 
