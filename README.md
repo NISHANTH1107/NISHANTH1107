@@ -34,6 +34,9 @@ I am a dedicated full-stack developer who thrives on solving real-world problems
 #### Tools & Platforms
 - Docker, Firebase, Git  
 - Heroku, AWS  
+- VSCode, GitHub
+- ChatGPT, Figma
+- Co-Pilot
 
 #### Machine Learning
 - Scikit-learn, TensorFlow, PyTorch  
