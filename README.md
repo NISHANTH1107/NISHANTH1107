@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on in-house projects at my institution [PYEXPO'25](portal.pyexpo.co)
 
-- 💬 Ask me about front-end, python, JS **react, django, flask, MERN**
+- 💬 Ask me about front-end, python, JS **react, django, flask, streamlit, MERN**
 
 - 📫 How to reach me **nishanthmn07@gmail.comm**
 
